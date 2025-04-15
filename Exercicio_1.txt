@@ -1,0 +1,35 @@
+// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+
+using System;
+
+public class HelloWorld
+{
+
+    
+    public static void Main(string[] args)
+    {
+        int tamanho = 5;  
+        int[] vetorA = new int[tamanho];
+        int[] vetorB = new int[tamanho];
+        int[] sum = new int[tamanho];
+        
+        for (int i = 0; i < tamanho; i++) 
+        {
+          Console.WriteLine($"Digite o valor do Vetor A, na  posicao [{i}]:");
+          vetorA[i] = int.Parse(Console.ReadLine()!);
+        }
+        
+        for (int i = 0; i < tamanho; i++) 
+        {
+          Console.WriteLine($"Digite o valor do Vetor B, na  posicao [{i}]:");
+          vetorB[i] = int.Parse(Console.ReadLine()!);
+        }
+        
+        for(int i = 0; i < tamanho; i++)
+        {
+           sum[i] = vetorA[i] + vetorB[i];
+           Console.WriteLine($"A soma do Vetor A [{i}] e Vetor B [{i}]. [{vetorA[i]}] + [{vetorB[i]}] = [{sum[i]}]"); 
+        }
+    }
+}
