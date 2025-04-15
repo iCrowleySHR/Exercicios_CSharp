@@ -10,20 +10,20 @@ public class HelloWorld
     public static void Main(string[] args)
     {
         int tamanho = 5;  
-        int[] vetorA = new int[tamanho];
-        int[] vetorB = new int[tamanho];
-        int[] sum = new int[tamanho];
+        double[] vetorA = new double[tamanho];
+        double[] vetorB = new double[tamanho];
+        double[] sum = new double[tamanho];
         
         for (int i = 0; i < tamanho; i++) 
         {
           Console.WriteLine($"Digite o valor do Vetor A, na  posicao [{i}]:");
-          vetorA[i] = int.Parse(Console.ReadLine()!);
+          vetorA[i] = double.Parse(Console.ReadLine()!);
         }
         
         for (int i = 0; i < tamanho; i++) 
         {
           Console.WriteLine($"Digite o valor do Vetor B, na  posicao [{i}]:");
-          vetorB[i] = int.Parse(Console.ReadLine()!);
+          vetorB[i] = double.Parse(Console.ReadLine()!);
         }
         
         for(int i = 0; i < tamanho; i++)
