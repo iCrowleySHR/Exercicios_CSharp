@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Encadeada Manual em C#\bin\Debug\net9.0\Lista Encadeada Manual em C#.exe
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Encadeada Manual em C#\bin\Debug\net9.0\Lista Encadeada Manual em C#.deps.json
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Encadeada Manual em C#\bin\Debug\net9.0\Lista Encadeada Manual em C#.runtimeconfig.json
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Encadeada Manual em C#\bin\Debug\net9.0\Lista Encadeada Manual em C#.dll
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Encadeada Manual em C#\bin\Debug\net9.0\Lista Encadeada Manual em C#.pdb
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Encadeada Manual em C#\obj\Debug\net9.0\Lista Encadeada Manual em C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Encadeada Manual em C#\obj\Debug\net9.0\Lista Encadeada Manual em C#.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Encadeada Manual em C#\obj\Debug\net9.0\Lista Encadeada Manual em C#.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Encadeada Manual em C#\obj\Debug\net9.0\Lista Encadeada Manual em C#.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Encadeada Manual em C#\obj\Debug\net9.0\Lista Encadeada Manual em C#.sourcelink.json
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Encadeada Manual em C#\obj\Debug\net9.0\Lista Encadeada Manual em C#.dll
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Encadeada Manual em C#\obj\Debug\net9.0\refint\Lista Encadeada Manual em C#.dll
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Encadeada Manual em C#\obj\Debug\net9.0\Lista Encadeada Manual em C#.pdb
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Encadeada Manual em C#\obj\Debug\net9.0\Lista Encadeada Manual em C#.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Encadeada Manual em C#\obj\Debug\net9.0\ref\Lista Encadeada Manual em C#.dll

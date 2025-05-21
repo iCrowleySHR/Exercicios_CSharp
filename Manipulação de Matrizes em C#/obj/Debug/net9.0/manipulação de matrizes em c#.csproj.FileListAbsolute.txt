@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\Exercicios_CSharp\manipulação de matrizes em c#\bin\Debug\net9.0\manipulação de matrizes em c#.exe
+C:\Users\Alunos\Desktop\Exercicios_CSharp\manipulação de matrizes em c#\bin\Debug\net9.0\manipulação de matrizes em c#.deps.json
+C:\Users\Alunos\Desktop\Exercicios_CSharp\manipulação de matrizes em c#\bin\Debug\net9.0\manipulação de matrizes em c#.runtimeconfig.json
+C:\Users\Alunos\Desktop\Exercicios_CSharp\manipulação de matrizes em c#\bin\Debug\net9.0\manipulação de matrizes em c#.dll
+C:\Users\Alunos\Desktop\Exercicios_CSharp\manipulação de matrizes em c#\bin\Debug\net9.0\manipulação de matrizes em c#.pdb
+C:\Users\Alunos\Desktop\Exercicios_CSharp\manipulação de matrizes em c#\obj\Debug\net9.0\manipulação de matrizes em c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\Exercicios_CSharp\manipulação de matrizes em c#\obj\Debug\net9.0\manipulação de matrizes em c#.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\Exercicios_CSharp\manipulação de matrizes em c#\obj\Debug\net9.0\manipulação de matrizes em c#.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\Exercicios_CSharp\manipulação de matrizes em c#\obj\Debug\net9.0\manipulação de matrizes em c#.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Exercicios_CSharp\manipulação de matrizes em c#\obj\Debug\net9.0\manipulação de matrizes em c#.sourcelink.json
+C:\Users\Alunos\Desktop\Exercicios_CSharp\manipulação de matrizes em c#\obj\Debug\net9.0\manipulação de matrizes em c#.dll
+C:\Users\Alunos\Desktop\Exercicios_CSharp\manipulação de matrizes em c#\obj\Debug\net9.0\refint\manipulação de matrizes em c#.dll
+C:\Users\Alunos\Desktop\Exercicios_CSharp\manipulação de matrizes em c#\obj\Debug\net9.0\manipulação de matrizes em c#.pdb
+C:\Users\Alunos\Desktop\Exercicios_CSharp\manipulação de matrizes em c#\obj\Debug\net9.0\manipulação de matrizes em c#.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\Exercicios_CSharp\manipulação de matrizes em c#\obj\Debug\net9.0\ref\manipulação de matrizes em c#.dll

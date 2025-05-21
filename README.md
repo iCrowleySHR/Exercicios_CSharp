@@ -74,3 +74,24 @@ O programa faz o seguinte:
    - **listNames**: Um array com 5 nomes de pessoas.
    - **listGames**: Um array com 5 nomes de jogos.
    - **listHoobies**: Um array com 5 hobbies.
+
+##  Manipulação de Matrizes em C#
+
+Este projeto em C# demonstra como trabalhar com matrizes bidimensionais (arrays de 2 dimensões) para armazenar e acessar dados. O programa cria uma matriz de inteiros e acessa um valor específico usando índices.
+
+### Funcionalidade
+
+O programa realiza as seguintes operações:
+
+1. Cria uma matriz de tamanho `3x3` com valores predefinidos.
+2. Acessa e imprime o valor na linha 1, coluna 2 da matriz.
+
+## Lista Encadeada Manual em C#
+
+Este projeto demonstra a implementação manual de uma **lista encadeada (linked list)** simples em C#, com suporte para inserção, remoção e exibição de elementos inteiros.
+
+### Funcionalidades
+
+- **Adicionar elementos** ao final da lista.
+- **Remover elementos** com base no valor.
+- **Exibir todos os elementos** da lista encadeada no console.
