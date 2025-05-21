@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Manipulação de Arrays em C#\bin\Debug\net9.0\Manipulação de Arrays em C#.exe
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Manipulação de Arrays em C#\bin\Debug\net9.0\Manipulação de Arrays em C#.deps.json
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Manipulação de Arrays em C#\bin\Debug\net9.0\Manipulação de Arrays em C#.runtimeconfig.json
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Manipulação de Arrays em C#\bin\Debug\net9.0\Manipulação de Arrays em C#.dll
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Manipulação de Arrays em C#\bin\Debug\net9.0\Manipulação de Arrays em C#.pdb
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Manipulação de Arrays em C#\obj\Debug\net9.0\Manipulação de Arrays em C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Manipulação de Arrays em C#\obj\Debug\net9.0\Manipulação de Arrays em C#.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Manipulação de Arrays em C#\obj\Debug\net9.0\Manipulação de Arrays em C#.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Manipulação de Arrays em C#\obj\Debug\net9.0\Manipulação de Arrays em C#.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Manipulação de Arrays em C#\obj\Debug\net9.0\Manipulação de Arrays em C#.sourcelink.json
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Manipulação de Arrays em C#\obj\Debug\net9.0\Manipulação de Arrays em C#.dll
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Manipulação de Arrays em C#\obj\Debug\net9.0\refint\Manipulação de Arrays em C#.dll
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Manipulação de Arrays em C#\obj\Debug\net9.0\Manipulação de Arrays em C#.pdb
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Manipulação de Arrays em C#\obj\Debug\net9.0\Manipulação de Arrays em C#.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Manipulação de Arrays em C#\obj\Debug\net9.0\ref\Manipulação de Arrays em C#.dll

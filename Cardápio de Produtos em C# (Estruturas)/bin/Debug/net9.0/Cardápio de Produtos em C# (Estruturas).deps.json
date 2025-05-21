@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Cardápio de Produtos em C# (Estruturas)/1.0.0": {
+        "runtime": {
+          "Cardápio de Produtos em C# (Estruturas).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cardápio de Produtos em C# (Estruturas)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

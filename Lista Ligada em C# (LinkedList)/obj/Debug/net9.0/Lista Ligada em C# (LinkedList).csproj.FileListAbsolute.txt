@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Ligada em C# (LinkedList)\bin\Debug\net9.0\Lista Ligada em C# (LinkedList).exe
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Ligada em C# (LinkedList)\bin\Debug\net9.0\Lista Ligada em C# (LinkedList).deps.json
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Ligada em C# (LinkedList)\bin\Debug\net9.0\Lista Ligada em C# (LinkedList).runtimeconfig.json
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Ligada em C# (LinkedList)\bin\Debug\net9.0\Lista Ligada em C# (LinkedList).dll
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Ligada em C# (LinkedList)\bin\Debug\net9.0\Lista Ligada em C# (LinkedList).pdb
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Ligada em C# (LinkedList)\obj\Debug\net9.0\Lista Ligada em C# (LinkedList).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Ligada em C# (LinkedList)\obj\Debug\net9.0\Lista Ligada em C# (LinkedList).AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Ligada em C# (LinkedList)\obj\Debug\net9.0\Lista Ligada em C# (LinkedList).AssemblyInfo.cs
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Ligada em C# (LinkedList)\obj\Debug\net9.0\Lista Ligada em C# (LinkedList).csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Ligada em C# (LinkedList)\obj\Debug\net9.0\Lista Ligada em C# (LinkedList).sourcelink.json
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Ligada em C# (LinkedList)\obj\Debug\net9.0\Lista Ligada em C# (LinkedList).dll
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Ligada em C# (LinkedList)\obj\Debug\net9.0\refint\Lista Ligada em C# (LinkedList).dll
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Ligada em C# (LinkedList)\obj\Debug\net9.0\Lista Ligada em C# (LinkedList).pdb
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Ligada em C# (LinkedList)\obj\Debug\net9.0\Lista Ligada em C# (LinkedList).genruntimeconfig.cache
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Lista Ligada em C# (LinkedList)\obj\Debug\net9.0\ref\Lista Ligada em C# (LinkedList).dll

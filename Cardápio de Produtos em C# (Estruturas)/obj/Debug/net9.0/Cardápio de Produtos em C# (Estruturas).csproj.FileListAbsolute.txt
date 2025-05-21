@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Cardápio de Produtos em C# (Estruturas)\bin\Debug\net9.0\Cardápio de Produtos em C# (Estruturas).exe
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Cardápio de Produtos em C# (Estruturas)\bin\Debug\net9.0\Cardápio de Produtos em C# (Estruturas).deps.json
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Cardápio de Produtos em C# (Estruturas)\bin\Debug\net9.0\Cardápio de Produtos em C# (Estruturas).runtimeconfig.json
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Cardápio de Produtos em C# (Estruturas)\bin\Debug\net9.0\Cardápio de Produtos em C# (Estruturas).dll
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Cardápio de Produtos em C# (Estruturas)\bin\Debug\net9.0\Cardápio de Produtos em C# (Estruturas).pdb
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Cardápio de Produtos em C# (Estruturas)\obj\Debug\net9.0\Cardápio de Produtos em C# (Estruturas).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Cardápio de Produtos em C# (Estruturas)\obj\Debug\net9.0\Cardápio de Produtos em C# (Estruturas).AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Cardápio de Produtos em C# (Estruturas)\obj\Debug\net9.0\Cardápio de Produtos em C# (Estruturas).AssemblyInfo.cs
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Cardápio de Produtos em C# (Estruturas)\obj\Debug\net9.0\Cardápio de Produtos em C# (Estruturas).csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Cardápio de Produtos em C# (Estruturas)\obj\Debug\net9.0\Cardápio de Produtos em C# (Estruturas).sourcelink.json
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Cardápio de Produtos em C# (Estruturas)\obj\Debug\net9.0\Cardápio de Produtos em C# (Estruturas).dll
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Cardápio de Produtos em C# (Estruturas)\obj\Debug\net9.0\refint\Cardápio de Produtos em C# (Estruturas).dll
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Cardápio de Produtos em C# (Estruturas)\obj\Debug\net9.0\Cardápio de Produtos em C# (Estruturas).pdb
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Cardápio de Produtos em C# (Estruturas)\obj\Debug\net9.0\Cardápio de Produtos em C# (Estruturas).genruntimeconfig.cache
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Cardápio de Produtos em C# (Estruturas)\obj\Debug\net9.0\ref\Cardápio de Produtos em C# (Estruturas).dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Soma de Vetores em C# (Console App)/1.0.0": {
+        "runtime": {
+          "Soma de Vetores em C# (Console App).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Soma de Vetores em C# (Console App)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+c:\Users\Alunos\Desktop\Exercicios_CSharp\Soma de Vetores em C# (Console App)\bin\Debug\net9.0\Soma de Vetores em C# (Console App).exe
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Soma de Vetores em C# (Console App)\bin\Debug\net9.0\Soma de Vetores em C# (Console App).deps.json
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Soma de Vetores em C# (Console App)\bin\Debug\net9.0\Soma de Vetores em C# (Console App).runtimeconfig.json
+c:\Users\Alunos\Desktop\Exercicios_CSharp\Soma de Vetores em C# (Console App)\bin\Debug\net9.0\Soma de Vetores em C# (Console App).dll
+c:\Users\Alunos\Desktop\Exercicios_CSharp\Soma de Vetores em C# (Console App)\bin\Debug\net9.0\Soma de Vetores em C# (Console App).pdb
+c:\Users\Alunos\Desktop\Exercicios_CSharp\Soma de Vetores em C# (Console App)\obj\Debug\net9.0\Soma de Vetores em C# (Console App).GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\Desktop\Exercicios_CSharp\Soma de Vetores em C# (Console App)\obj\Debug\net9.0\Soma de Vetores em C# (Console App).AssemblyInfoInputs.cache
+c:\Users\Alunos\Desktop\Exercicios_CSharp\Soma de Vetores em C# (Console App)\obj\Debug\net9.0\Soma de Vetores em C# (Console App).AssemblyInfo.cs
+c:\Users\Alunos\Desktop\Exercicios_CSharp\Soma de Vetores em C# (Console App)\obj\Debug\net9.0\Soma de Vetores em C# (Console App).csproj.CoreCompileInputs.cache
+c:\Users\Alunos\Desktop\Exercicios_CSharp\Soma de Vetores em C# (Console App)\obj\Debug\net9.0\Soma de Vetores em C# (Console App).sourcelink.json
+c:\Users\Alunos\Desktop\Exercicios_CSharp\Soma de Vetores em C# (Console App)\obj\Debug\net9.0\Soma de Vetores em C# (Console App).dll
+c:\Users\Alunos\Desktop\Exercicios_CSharp\Soma de Vetores em C# (Console App)\obj\Debug\net9.0\refint\Soma de Vetores em C# (Console App).dll
+c:\Users\Alunos\Desktop\Exercicios_CSharp\Soma de Vetores em C# (Console App)\obj\Debug\net9.0\Soma de Vetores em C# (Console App).pdb
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Soma de Vetores em C# (Console App)\obj\Debug\net9.0\Soma de Vetores em C# (Console App).genruntimeconfig.cache
+C:\Users\Alunos\Desktop\Exercicios_CSharp\Soma de Vetores em C# (Console App)\obj\Debug\net9.0\ref\Soma de Vetores em C# (Console App).dll
